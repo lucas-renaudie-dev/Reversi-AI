@@ -8,7 +8,7 @@ The agent uses an evaluation function based on a weighted sum of heuristic value
 (A heuristic is a simple method used to evaluate the “goodness” of a particular game state or move, when a full search of the game tree is either impossible or too costly. It gives a quick, estimate of how favorable a position is, suggesting which moves or states are most promising to explore in depth. The goal of a heuristic is to balance computational efficiency with accuracy, so that the AI can make strong moves without exhaustively searching every possible future outcome).
 
 I tried using a genetic algorithm to optimize the weights, but in the end I manually fine-tuned them so as to not counterfit/bias against the opposing agents (see the report for more detail).
-I also tried using pre-move ordering and pruning the less promising moves from the search, but this resulted in less satisfactory results (again, see the report for more detail).
+I also tried using pre-move ordering and pruning the less promising moves from the search, but this resulted in less satisfactory results due to the inaccuracy of the ordering (again, see the report for more detail).
 
 The agent also uses game state memoization to avoid redundant computations.
 
