@@ -12,10 +12,10 @@ I also tried using pre-move ordering and pruning the less promising moves from t
 
 The agent also uses game state memoization to avoid redundant computations.
 
-In the end, the agent placed 7th out of 150 in the tournament. It consistently outperformed the random agent (100% winrate across all board sizes) and the greedy gpt agent (+99% winrate across all board sizes).
+In the end, the agent placed 7th out of 150 in the tournament (¤). It consistently outperformed the random agent (100% winrate across all board sizes) and the greedy gpt agent (+99% winrate across all board sizes).
 Against an average human player, the expected win rate is also above 99% as I have never been able to beat it!
 
 For more info, you can refer to the report of the project, where you'll find interesting info on the various different approaches tested that led to this final agent.
 
-Enjoy! :)
+(¤): See the final_tournament_results.xlsx file - my student ID is 261045005.
 
