@@ -17,5 +17,5 @@ Against an average human player, the expected win rate is also above 99% as I ha
 
 For more info, you can refer to the report of the project, where you'll find interesting info on the various different approaches tested that led to this final agent.
 
-(¤): See the final_tournament_results.xlsx excel sheet - my student ID is 261045005.
+(¤): See the [final_tournament_results.xlsx](final_tournament_results.xlsx) excel sheet - my student ID is 261045005.
 
