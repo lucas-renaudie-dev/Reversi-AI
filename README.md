@@ -1,6 +1,6 @@
 # Game-Playing AI Project
 
-Welcome to my AI Project! In this project, I built an AI capable of playing the game 'Reversi'. 
+Welcome to my AI Project! In this project, I built an AI capable of playing the game Reversi, also known as Othello. 
 
 Here, I showcase the code and thought process behind my AI agent, based on an Iterative-Deepening Alpha-Beta Pruning tree search.
 
