@@ -15,7 +15,7 @@ The agent also uses game state memoization to avoid redundant computations.
 In the end, the agent consistently outperformed the random agent (100% winrate across all board sizes) and the greedy gpt agent (+99% winrate across all board sizes).
 Against an average human player, the expected win rate is also above 99% as I have never been able to beat it!
 
-For more info, you can refer to the report of the project, where you'll find interesting info on the various different approaches tested that led me to this final agent.
+For more info, you can refer to the report of the project, where you'll find interesting info on the various different approaches tested that led to this final agent.
 
 Enjoy! :)
 
