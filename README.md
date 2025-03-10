@@ -15,7 +15,7 @@ The agent also uses game state memoization to avoid redundant computations.
 In the end, the agent placed 7th out of 150 in the tournament (¤). It consistently outperformed the random agent (100% winrate across all board sizes) and the greedy gpt agent (+99% winrate across all board sizes).
 Against an average human player, the expected win rate is also above 99% as I have never been able to beat it!
 
-For more info, you can refer to the report of the project - [COMP424_Final_Project.pdf](COMP424_Final_Project.pdf), where you'll find much more detail on the code behind the agent, as well as info on the various different approaches tested that led to this final agent. 
+For more info, you can refer to the report of the project - [COMP424_Final_Project_Report.pdf](COMP424_Final_Project_Report.pdf), where you'll find much more detail on the code behind the agent, as well as info on the various different approaches tested that led to this final agent. 
 If you want to look at the code directly, go to [student_agent.py](student_agent.py). If you want to read the project instructions, go to [COMP424_Final_Project.pdf](COMP424_Final_Project.pdf). 
 
 Finally, if you'd like to test out the agent yourself, head over to https://github.com/dmeger/COMP424-Fall2024 - you'll find everything you need to know regarding the set up of the game. (Note: you'll need to replace the given student_agent.py starter code with my student_agent.py code).
