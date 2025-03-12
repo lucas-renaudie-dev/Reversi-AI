@@ -1,4 +1,4 @@
-You might have tried setting up the project and run into issues like conflicting library versions or incompatible Python versions. If you're facing challenges, follow this guide to set up your environment step by step.
+In order to avoid running into issues like conflicting library versions or incompatible Python versions, make sure to follow this guide to set up your environment step by step.
 
 Tip: Use Conda for managing isolated environments—it simplifies handling dependencies and Python versions. If you don’t have Conda installed, refer to the [Miniconda installation guide](https://www.anaconda.com/docs/getting-started/miniconda/install#quick-command-line-install).
 
