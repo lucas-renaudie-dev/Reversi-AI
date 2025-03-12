@@ -22,5 +22,7 @@ After this you should see the environment name appear at the beginning of your t
 6. You can deactivate your environment by conda deactivate.
 To reactivate the environment in a new session, follow Step 3.
 
-If you are still encountering errors, try downgrading numpy to a version older than 2, such as 1.26.4 (the version needs to be between 1.22 and 2): <br>
+If you are still encountering errors, try downgrading numpy to a version older than 2, such as 1.26.1 (the version needs to be between 1.22 and 2): <br>
 `pip3 install --upgrade numpy==1.26.1`
+
+(For reference, I was using Python 3.9.20 and numpy 1.26.1).
