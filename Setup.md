@@ -25,4 +25,4 @@ To reactivate the environment in a new session, follow Step 3.
 If you are still encountering errors, try downgrading numpy to a version older than 2, such as 1.26.1 (the version needs to be between 1.22 and 2): <br>
 `pip3 install --upgrade numpy==1.26.1`
 
-(For reference, I was using Python 3.9.20 and numpy 1.26.1).
+(For reference, I was using Python version `3.9.20`, numpy version `1.26.1`, and matplotlib version `3.5.1`).
